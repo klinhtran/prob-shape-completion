@@ -14,7 +14,7 @@ from collections import OrderedDict
 
 import matplotlib
 
-matplotlib.use('Qt5Agg')
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 from mpl_toolkits.mplot3d import Axes3D

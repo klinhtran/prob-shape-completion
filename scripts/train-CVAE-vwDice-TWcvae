@@ -19,7 +19,7 @@ python3 src/main.py \
 --save_voxels=false \
 --save_by_iter=false \
 --random_remove=true \
---num_epochs=10000000 \
+--num_epochs=200 \
 --image_save_step=100 \
 --log_step=1 \
 --num_workers=6 \
